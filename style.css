@@ -1,0 +1,93 @@
+body {
+background-color:#696969;
+margin:5px 5px 10px 5px;
+}
+
+#Banniere
+{
+margin-left:50px;
+width:468px;
+height:60px;
+padding:0px;
+background-image:url("../images/pub.jpg");
+background-repeat:no-repeat;
+margin-top:30px;
+margin-bottom: 0; 
+}
+
+h1 {
+font-family:times new roman, serif;
+font-size:80%;
+color:black;
+background-color:#696969;
+text-align:left;
+}
+
+h2 {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:black;
+background-color:#696969;
+text-align:left;
+}
+h3 {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:black;
+background-color:#696969;
+text-align:left;
+}
+p {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:black;
+background-color:#696969;
+text-align:left;
+margin-left:0px;
+margin-right:0px;
+}
+li {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:black;
+background-color:#696969;
+text-align:left;
+margin-left:0px;
+margin-right:0px;
+}
+a:link {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:black;
+background-color:#696969;
+text-decoration:underline;
+}
+a:visited {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:maroon;
+background-color:#696969;
+text-decoration:none;
+}
+a:hover {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:maroon;
+background-color:#696969;
+text-decoration:underline;
+}
+table {
+border-color:cyan;
+border-style:solid;
+border-width:2px;
+}
+td {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:black;
+text-align:left;
+background-color:#696969;
+border-color:cyan;
+border-style:solid;
+border-width:2px;
+}
