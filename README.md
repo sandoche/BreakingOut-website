@@ -1,4 +1,8 @@
 # BreakingOut-website
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](/LICENSE)
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@sandoche)
+[![Twitter: sandochee](https://img.shields.io/twitter/follow/sandochee.svg?style=social)](https://twitter.com/sandochee)
+
 👮 A Prison Break themed multiplayer persistent online browser game
 
 
